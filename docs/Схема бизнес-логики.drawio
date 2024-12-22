@@ -1,0 +1,844 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0" version="24.8.6">
+  <diagram name="Page-1" id="HO3tBGFKkPPvOVo4lWaa">
+    <mxGraphModel dx="1953" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-1" target="JpmMJfaZ69tF7STD2eXr-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-1" value="Старт" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="375" y="20" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-4" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="330" y="160" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-2" value="Проверяет роль пользователя" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-4">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-4">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-5" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="680" y="20" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-5">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-5">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-12" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="690" y="100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-12">
+          <mxGeometry y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-14" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-12">
+          <mxGeometry width="14.8" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-2" target="JpmMJfaZ69tF7STD2eXr-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="269.09090909090855" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-25" value="Администратор" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JpmMJfaZ69tF7STD2eXr-17">
+          <mxGeometry x="-0.116" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-19" value="Клиент" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-2" target="JpmMJfaZ69tF7STD2eXr-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="516.3636363636365" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-20" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-50" y="270" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-21" value="Показать меню:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-20">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-22" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-20">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-253" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-24" target="JpmMJfaZ69tF7STD2eXr-251">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-24" value="Клиентские заказы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-27" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="660" y="270" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-28" value="Показать меню:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-27">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-29" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-27">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-232" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-30" target="JpmMJfaZ69tF7STD2eXr-230">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-30" value="Загрузить базу товаров" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-31" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-21" target="JpmMJfaZ69tF7STD2eXr-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-21" target="JpmMJfaZ69tF7STD2eXr-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-43" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-34" target="JpmMJfaZ69tF7STD2eXr-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-34" value="Оформить заказ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-35" value="История заказов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="791" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-36" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-28" target="JpmMJfaZ69tF7STD2eXr-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-38" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-28" target="JpmMJfaZ69tF7STD2eXr-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-39" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="550" y="510" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-40" value="Показать условия использования" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-39">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-41" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-39">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-44" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="550" y="630" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-45" value="Показать кнопку &quot;Согласен&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-44">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-46" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-44">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-47" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-40" target="JpmMJfaZ69tF7STD2eXr-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-48" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="549" y="750" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-49" value="Показать каталог" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-48">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-50" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-48">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-51" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-45" target="JpmMJfaZ69tF7STD2eXr-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-52" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="558" y="870" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-53" value="Выбирает пункт каталога" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-52">
+          <mxGeometry y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-54" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-52">
+          <mxGeometry width="14.8" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-55" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-49" target="JpmMJfaZ69tF7STD2eXr-53">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="619" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-56" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="548" y="990" width="131" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-57" value="&lt;div&gt;Показать сообщение:&lt;/div&gt;&lt;div&gt;Укажите необходимое количество товара&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-56">
+          <mxGeometry x="10" y="14.285714285714286" width="120" height="85.71428571428572" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-58" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-56">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-59" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-53" target="JpmMJfaZ69tF7STD2eXr-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-60" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="548" y="1140" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-61" value="Создаёт заказ и добавляет в него товарную позицию" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-60">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-62" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-60">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-63" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-57" target="JpmMJfaZ69tF7STD2eXr-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-68" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="940" y="600" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-69" value="Показать кнопку:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-68">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-70" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-68">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-71" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;horizontal=1;dashed=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-49" target="JpmMJfaZ69tF7STD2eXr-207">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-78" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-72" target="JpmMJfaZ69tF7STD2eXr-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-72" value="Оформить заказ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-73" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-69" target="JpmMJfaZ69tF7STD2eXr-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-61" target="JpmMJfaZ69tF7STD2eXr-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="1180" />
+              <mxPoint x="430" y="790" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-75" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="940" y="880" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-76" value="Показать сообщение:&lt;br&gt;&quot;Выберите способ доставки&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-75">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-77" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-75">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-103" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-79" target="JpmMJfaZ69tF7STD2eXr-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-79" value="Добавить адрес" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-82" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1010" y="1380" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-83" value="Показать inline-кнопку с адресами" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-82">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-84" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-82">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-86" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="939" y="1000" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-87" value="Показать кнопки:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-86">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-88" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-86">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-89" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-76" target="JpmMJfaZ69tF7STD2eXr-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-130" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-90" target="JpmMJfaZ69tF7STD2eXr-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-90" value="Самовывоз г. Екатеринбург ул. Посадская д. 10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-91" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-87" target="JpmMJfaZ69tF7STD2eXr-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-98" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-92" target="JpmMJfaZ69tF7STD2eXr-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-92" value="&lt;div&gt;Оформить доставку&lt;/div&gt;&lt;div&gt;&lt;span lang=&quot;ru&quot; class=&quot;BxUVEf ILfuVd&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;&lt;b&gt;≈ 300 &lt;/b&gt;рублей&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-93" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-87" target="JpmMJfaZ69tF7STD2eXr-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-94" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="789" y="1360" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-95" value="Показать кнопки:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-94">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-96" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-94">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-97" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-95" target="JpmMJfaZ69tF7STD2eXr-210">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-99" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-95" target="JpmMJfaZ69tF7STD2eXr-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-100" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="791" y="1615" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-101" value="&lt;div&gt;Показать сообщение:&lt;/div&gt;&lt;div&gt;Напишите текстом адрес доставки&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-100">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-102" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-100">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-104" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="800" y="1740" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-105" value="Указывает адрес доставки" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-104">
+          <mxGeometry y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-106" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-104">
+          <mxGeometry width="14.8" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-107" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-101" target="JpmMJfaZ69tF7STD2eXr-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-111" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="789" y="1240" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-112" value="&lt;div&gt;Показать сообщение:&lt;/div&gt;&lt;div&gt;Выберите адрес&lt;br&gt;&lt;/div&gt;&amp;nbsp;ближайшего СДЭКа" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-111">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-113" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-111">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-114" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-112" target="JpmMJfaZ69tF7STD2eXr-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-105" target="JpmMJfaZ69tF7STD2eXr-112">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="730" y="1790" />
+              <mxPoint x="730" y="1280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-117" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1021" y="1480" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-118" value="Указывает адрес доставки" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-117">
+          <mxGeometry y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-119" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-117">
+          <mxGeometry width="14.8" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-121" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-83" target="JpmMJfaZ69tF7STD2eXr-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-122" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1229.94" y="1580" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-123" value="&lt;div&gt;Показать сообщение:&lt;/div&gt;&lt;div&gt;Укажите номер телефона&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-122">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-124" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-122">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-125" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1229.94" y="1710" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-126" value="Показать кнопки:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-125">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-127" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-125">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-128" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-118" target="JpmMJfaZ69tF7STD2eXr-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-129" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-123" target="JpmMJfaZ69tF7STD2eXr-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-144" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-132" target="JpmMJfaZ69tF7STD2eXr-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-132" value="Добавить номер телефона" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1240.94" y="1845" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-133" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-126" target="JpmMJfaZ69tF7STD2eXr-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-134" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1469" y="1690" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-135" value="Если есть номера у клиента, то показать inline-кнопку с телефонами" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-134">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-136" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-134">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-137" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-126" target="JpmMJfaZ69tF7STD2eXr-213">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-138" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1229.94" y="1950" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-139" value="&lt;div&gt;Показать сообщение:&lt;/div&gt;&lt;div&gt;Напишите номер телефона&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-138">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-140" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-138">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-141" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1239.94" y="2070" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-142" value="Указывает номер телефона" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-141">
+          <mxGeometry y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-143" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-141">
+          <mxGeometry width="14.8" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-145" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-139" target="JpmMJfaZ69tF7STD2eXr-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-142" target="JpmMJfaZ69tF7STD2eXr-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1159.94" y="2120" />
+              <mxPoint x="1159.94" y="1620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-147" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1480" y="1825" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-148" value="Указывает номер телефона" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-147">
+          <mxGeometry y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-149" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-147">
+          <mxGeometry width="14.8" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-150" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-135" target="JpmMJfaZ69tF7STD2eXr-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-151" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1550" y="1960" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-152" value="Показать смету" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-151">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-153" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-151">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-154" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-148" target="JpmMJfaZ69tF7STD2eXr-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-155" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1550" y="2110" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-156" value="Показать кнопки:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-155">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-157" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-155">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-158" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-152" target="JpmMJfaZ69tF7STD2eXr-156">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-218" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-159" target="JpmMJfaZ69tF7STD2eXr-226">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-159" value="Оформить заказ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="2240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-160" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-156" target="JpmMJfaZ69tF7STD2eXr-159">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-166" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-161" target="JpmMJfaZ69tF7STD2eXr-164">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-161" value="Изменить товарную позицию" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1721" y="2240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-162" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-156" target="JpmMJfaZ69tF7STD2eXr-161">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-163" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1710" y="2370" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-164" value="Показать inline-кнопки с товарными позициями" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-163">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-165" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-163">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-167" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1710" y="2500" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-168" value="&lt;div&gt;Показать сообщение:&lt;/div&gt;&lt;div&gt;Что хотите изменить?&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-167">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-169" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-167">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-170" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-164" target="JpmMJfaZ69tF7STD2eXr-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-172" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1710" y="2610" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-173" value="&lt;div&gt;Показать кнопки:&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-172">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-174" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-172">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-186" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-175" target="JpmMJfaZ69tF7STD2eXr-184">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-175" value="Изменить количество" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1630" y="2760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-176" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-173" target="JpmMJfaZ69tF7STD2eXr-175">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-177" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-168" target="JpmMJfaZ69tF7STD2eXr-173">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-198" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-181" target="JpmMJfaZ69tF7STD2eXr-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-181" value="Удалить позицию" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1841" y="2760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-182" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-173" target="JpmMJfaZ69tF7STD2eXr-181">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-183" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1620" y="2870" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-184" value="&lt;div&gt;Показать сообщение:&lt;/div&gt;&lt;div&gt;Укажите количество&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-183">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-185" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-183">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-187" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1630" y="3010" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-188" value="Указывает количество" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-187">
+          <mxGeometry y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-189" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-187">
+          <mxGeometry width="14.8" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-190" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-184" target="JpmMJfaZ69tF7STD2eXr-188">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-191" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1830" y="2870" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-192" value="Удаляет товарную позицию из заказа" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-191">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-193" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-191">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-194" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1830" y="3110" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-195" value="Изменяет количество товарных позиций в заказе" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-194">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-196" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-194">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-197" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-188" target="JpmMJfaZ69tF7STD2eXr-195">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-199" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1830" y="2990" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-200" value="Если кол-во у товарной позиции == 0, то:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-199">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-202" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-200" target="JpmMJfaZ69tF7STD2eXr-192">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-203" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-195" target="JpmMJfaZ69tF7STD2eXr-200">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-195" target="JpmMJfaZ69tF7STD2eXr-152">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2210" y="3150" />
+              <mxPoint x="2210" y="2000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-205" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-192" target="JpmMJfaZ69tF7STD2eXr-152">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2110" y="2910" />
+              <mxPoint x="2110" y="2000" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-206" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="741.9" y="670" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-207" value="&lt;div&gt;Если есть заказ, где&lt;/div&gt;&lt;div&gt;Статус == Х, то:&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-206">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-208" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-207" target="JpmMJfaZ69tF7STD2eXr-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-209" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1010" y="1250" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-210" value="&lt;div&gt;Если адреса у клиента &amp;gt; 0, то:&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-209">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-211" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-210" target="JpmMJfaZ69tF7STD2eXr-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-212" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1469" y="1485" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-213" value="Если клиентские номера &amp;gt; 0, то:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-212">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-214" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-213" target="JpmMJfaZ69tF7STD2eXr-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-215" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1430" y="2520" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-216" value="Изменить статус заказа" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-215">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-217" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-215">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-219" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1431" y="2650" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-220" value="Отправить уведомление администратору" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-219">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-221" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-219">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-222" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-216" target="JpmMJfaZ69tF7STD2eXr-220">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-223" value="Конец" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1476" y="2780" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-224" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-220" target="JpmMJfaZ69tF7STD2eXr-223">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-225" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1429" y="2370" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-226" value="Показать сообщение &quot;Успех&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-225">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-227" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-225">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-228" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-226" target="JpmMJfaZ69tF7STD2eXr-216">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-229" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="99" y="510" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-230" value="&lt;div&gt;Показать сообщение:&lt;/div&gt;&lt;div&gt;Отправьте Excel-файл&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-229">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-231" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-229">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-233" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="110" y="630" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-234" value="Отправляет файл" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-233">
+          <mxGeometry y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-235" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-233">
+          <mxGeometry width="14.8" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-236" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-230" target="JpmMJfaZ69tF7STD2eXr-234">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-240" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="760" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-241" value="Парсит Excel-файл" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-240">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-242" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-240">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-243" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-234" target="JpmMJfaZ69tF7STD2eXr-241">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-244" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="100" y="900" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-245" value="Выводит сообщение об успехе" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-244">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-246" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-244">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-247" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-241" target="JpmMJfaZ69tF7STD2eXr-245">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-248" value="Конец" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="145" y="1050" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-249" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-245" target="JpmMJfaZ69tF7STD2eXr-248">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-250" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-210" y="510" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-251" value="&lt;div&gt;Показывает сообщение:&lt;/div&gt;&lt;div&gt;Выберите статус заказа&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-250">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-252" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-250">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-254" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-210" y="640" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-255" value="Выводит inline-кнопки со статусами" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-254">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-256" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-254">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-257" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-251" target="JpmMJfaZ69tF7STD2eXr-255">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-258" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-200" y="750" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-259" value="Нажимает на кнопку со статусами" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-258">
+          <mxGeometry y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-260" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-258">
+          <mxGeometry width="14.8" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-261" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-255" target="JpmMJfaZ69tF7STD2eXr-259">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-262" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-211" y="900" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-263" value="Выводит все заказы с указанным статусом" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-262">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-264" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-262">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-265" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-259" target="JpmMJfaZ69tF7STD2eXr-263">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-271" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-266" target="JpmMJfaZ69tF7STD2eXr-269">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-266" value="&lt;div&gt;Если выбран статус &quot;На подтверждении&quot;&lt;/div&gt;&lt;div&gt;OR&lt;/div&gt;&lt;div&gt;&quot;Ожидается передача в доставку&quot;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="-217.5" y="1040" width="155" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-267" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-263" target="JpmMJfaZ69tF7STD2eXr-266">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-268" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-210" y="1210" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-269" value="Создаёт у каждого заказа inline-кнопки &quot;Изменить статус&quot;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-268">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-270" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-268">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-272" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-200" y="1320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-273" value="Нажимает на inline-кнопку с заказом" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-272">
+          <mxGeometry y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-274" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-272">
+          <mxGeometry width="14.8" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-275" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-269" target="JpmMJfaZ69tF7STD2eXr-273">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-276" value="Конец" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="915" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-277" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-263" target="JpmMJfaZ69tF7STD2eXr-276">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-278" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-210" y="1450" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-279" value="&lt;div&gt;Выводит сообщение:&lt;/div&gt;&lt;div&gt;Выберите нужный статус&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-278">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-280" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-278">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-281" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-210" y="1570" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-282" value="Создаёт inline-кнопки с статусами заказа" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-281">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-283" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-281">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-284" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-273" target="JpmMJfaZ69tF7STD2eXr-279">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-285" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-279" target="JpmMJfaZ69tF7STD2eXr-282">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-286" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-200" y="1685" width="171" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-287" value="Нажимает на inline-кнопку со статусом" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-286">
+          <mxGeometry y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-288" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/user.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-286">
+          <mxGeometry width="14.8" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-289" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-282" target="JpmMJfaZ69tF7STD2eXr-287">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-290" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-210" y="1830" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-291" value="Изменяет статус заказа" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-290">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-292" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-290">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-293" value="" style="group;verticalAlign=middle;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-210" y="1960" width="131" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-294" value="&lt;div&gt;Выводит сообщение об успехе&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-293">
+          <mxGeometry x="10" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-295" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Defender_Industrial_Robot.svg;" vertex="1" parent="JpmMJfaZ69tF7STD2eXr-293">
+          <mxGeometry width="22.54" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-296" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-287" target="JpmMJfaZ69tF7STD2eXr-291">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-297" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-291" target="JpmMJfaZ69tF7STD2eXr-294">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-298" value="Конец" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-165" y="2085" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="JpmMJfaZ69tF7STD2eXr-299" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JpmMJfaZ69tF7STD2eXr-294" target="JpmMJfaZ69tF7STD2eXr-298">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
