@@ -50,6 +50,7 @@ class UserRole(BaseModel):
 
 class User(BaseModel):
     name = CharField()
+    role = ForeignKeyField(UserRole, backref="role")
 
     class Meta:
         table_name = 'Users'
