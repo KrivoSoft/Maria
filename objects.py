@@ -4,7 +4,11 @@ from peewee import *
 import yaml
 from datetime import date
 
-db = "db_name"
+
+with open('configs/secrets.yml', 'r') as file:
+    CONSTANTS = yaml.safe_load(file)
+db_name = CONSTANTS['DB_NAME']
+db = SqliteDatabase(db_name)
 
 
 class BaseModel(Model):
@@ -47,13 +51,26 @@ class UserRole(BaseModel):
     class Meta:
         table_name = 'UserRoles'
 
+    def __init__(self, name: str, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.name = name
+        self.save()
+
 
 class User(BaseModel):
     name = CharField()
+    telegram_id = CharField()
     role = ForeignKeyField(UserRole, backref="role")
 
     class Meta:
         table_name = 'Users'
+
+    def __init__(self, name: str, telegram_id: str, role: UserRole, *args, **kwargs):
+        super().__init__(*args, **kwargs)
+        self.name = name
+        self.telegram_id = telegram_id
+        self.role = role
+        self.save()
 
 
 class PhoneNumber(BaseModel):
