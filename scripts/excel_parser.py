@@ -49,5 +49,6 @@ def parse_excel(source_file: str, destination_dir: 'str'):
             print(f'Нет изображения для товара "{product_name}". Пропуск.')
 
     if len(cells_with_errors) > 0:
-        print(f"+- успешно, но при работе сценария возникли ошибки с ячейками:\n{cells_with_errors}")
-        return f"+- успешно, но при работе сценария возникли ошибки с ячейками:\n{cells_with_errors}"
+        result = f"+- успешно, но при работе сценария возникли ошибки с ячейками:\n{cells_with_errors}"
+        print(result)
+        return result
